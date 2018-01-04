@@ -1,0 +1,716 @@
+Quick-Cocos2dx-Community C++ support ready.
+
+------------------------------------------------
+
+LOAD LUA FILE: E:/qcocos/test001/src/main.lua
+
+------------------------------------------------
+
+[LUA-print] ===========================================================
+
+[LUA-print]               LOAD QUICK FRAMEWORK
+
+[LUA-print] ===========================================================
+
+[LUA-print] [INFO] 
+
+[LUA-print] [INFO] # DEBUG                        = 1
+
+[LUA-print] [INFO] #
+
+[LUA-print] [INFO] # device.platform              = windows
+
+[LUA-print] [INFO] # device.model                 = unknown
+
+[LUA-print] [INFO] # device.language              = cn
+
+[LUA-print] [INFO] # device.writablePath          = E:\qcocos\test001\
+
+[LUA-print] [INFO] # device.directorySeparator    = \
+
+[LUA-print] [INFO] # device.pathSeparator         = ;
+
+[LUA-print] [INFO] #
+
+[LUA-print] [INFO] # CONFIG_SCREEN_AUTOSCALE      = FIXED_HEIGHT
+
+[LUA-print] [INFO] # CONFIG_SCREEN_WIDTH          = 1152.00
+
+[LUA-print] [INFO] # CONFIG_SCREEN_HEIGHT         = 768.00
+
+[LUA-print] [INFO] # display.widthInPixels        = 960.00
+
+[LUA-print] [INFO] # display.heightInPixels       = 640.00
+
+[LUA-print] [INFO] # display.contentScaleFactor   = 0.83
+
+[LUA-print] [INFO] # display.width                = 1152.00
+
+[LUA-print] [INFO] # display.height               = 768.00
+
+[LUA-print] [INFO] # display.cx                   = 576.00
+
+[LUA-print] [INFO] # display.cy                   = 384.00
+
+[LUA-print] [INFO] # display.left                 = 0.00
+
+[LUA-print] [INFO] # display.right                = 1152.00
+
+[LUA-print] [INFO] # display.top                  = 768.00
+
+[LUA-print] [INFO] # display.bottom               = 0.00
+
+[LUA-print] [INFO] # display.c_left               = -576.00
+
+[LUA-print] [INFO] # display.c_right              = 576.00
+
+[LUA-print] [INFO] # display.c_top                = 384.00
+
+[LUA-print] [INFO] # display.c_bottom             = -384.00
+
+[LUA-print] [INFO] #
+
+WARNING: File case-sensitive.
+E:/qcocos/test001/src/app/layer/BgLayer.lua
+E:/qcocos/test001/src/app/layer/Bglayer.lua
+
+
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 
+
+[LUA-print] 7	10
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 
+
+[LUA-print] 6	12
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 2 1 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 2 1 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 2 1 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 2 1 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 
+
+[LUA-print] 10	8
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 2 1 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 
+
+[LUA-print] 8	8
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 2 1 0 1 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 2 0 2 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 
+
+[LUA-print] 11	11
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 1 0 0 0 2 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 2 1 0 1 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 2 1 2 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 
+
+[LUA-print] 9	10
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 1 0 0 0 2 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 2 1 2 1 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 2 1 2 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 
+
+[LUA-print] 9	5
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 1 0 0 0 2 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 2 1 2 1 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 2 1 2 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 1 0 0 0 2 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 2 1 2 1 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 2 1 2 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 
+
+[LUA-print] 11	5
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 1 0 0 0 2 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 2 1 2 1 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 2 1 2 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 2 0 2 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 
+
+[LUA-print] 12	6
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 1 0 0 0 2 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 2 1 2 1 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 2 1 2 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 1 1 1 2 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 2 0 2 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 
+
+[LUA-print] 7	6
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 1 0 0 0 2 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 2 1 2 1 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 2 1 2 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 2 1 1 1 1 2 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 2 0 2 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 
+
+[LUA-print] 10	4
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 1 0 0 0 2 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 2 1 2 1 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 2 1 2 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 2 1 1 1 1 2 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 1 2 0 2 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 
+
+[LUA-print] 13	7
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 1 0 0 0 2 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 2 1 2 1 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 2 1 2 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 1 0 0 0 2 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 2 1 1 1 1 2 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 1 2 0 2 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 1 0 0 2 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 
+
+[LUA-print] 14	8
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 1 0 0 0 2 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 2 1 2 1 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 2 1 2 0 0 0 2 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 1 0 0 0 2 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 2 1 1 1 1 2 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 1 2 0 2 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 1 0 0 2 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+[LUA-print] 
+
